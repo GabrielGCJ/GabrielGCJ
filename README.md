@@ -1,18 +1,4 @@
 
-<p align="center">
-<img src="header.svg" />
-</p>
-
-&nbsp;
-
- <div style="display:flex">
- <div align="center">
-  <a href="https://github.com/gabrielmina118">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmina118&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmina118&layout=compact&langs_count=16&theme=dracula"/>
-<div>
-
-  </div> 
 
 
 <div align="center">
