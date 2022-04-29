@@ -1,9 +1,7 @@
 <h1> Olá Mundo !!! </h1>
 <h2> Muito prazer, meu nome é Gabriel Jorge </h2>
 
-<br> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<br>
+
 
 <h2> Sobre mim: </h2>
 
@@ -17,7 +15,9 @@
 
 <div align="center">
  
- 
+ <br> 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<br>
  
  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
