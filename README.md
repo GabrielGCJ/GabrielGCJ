@@ -12,7 +12,7 @@
 
 
 
-<h1 color="0F2118"> Olá Mundo !!! or Wello Word !!! </h1>
+<h1 color="rgb(15,33,24)"> Olá Mundo !!! or Wello Word !!! </h1>
 
 <h2> Muito prazer, meu nome é Gabriel Jorge </h2>
 
