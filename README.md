@@ -1,21 +1,24 @@
 <h1> Olá Mundo !!! </h1>
 <h2> Muito prazer, meu nome é Gabriel Jorge </h2>
 
->  Sobre mim
+<br> 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<br>
 
-- Disponível para oportunidades
+<h2> Sobre mim: </h2>
+
+- Disponível para oportunidades.
+
 - Formando como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
+ 
 - Apaixonado a cada dia mais por aprender e praticar programação.
 
+- "Conhecimento não oculpa espaço".
 
 <div align="center">
  
  
- <br>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
- <br>
  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   &nbsp;
