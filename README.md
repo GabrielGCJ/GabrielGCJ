@@ -1,7 +1,7 @@
 <h1> Olá Mundo !!! </h1>
 <h2> Muito prazer, meu nome é Gabriel J </h2>
 
-## Sobre mim
+>  Sobre mim
 
 - Disponível para oportunidades
 - Formando como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
