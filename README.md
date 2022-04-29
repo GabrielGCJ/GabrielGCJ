@@ -1,18 +1,17 @@
-<h1> Olá Mundo !!! </h1>
+<h1> Olá Mundo !!! or Wello Word !!! </h1>
 <h2> Muito prazer, meu nome é Gabriel Jorge </h2>
 
 
 
 <h2> Sobre mim: </h2>
 
-- Disponível para oportunidades.
+- Disponível para oportunidades. ( front or back ) 
 
-- Formando como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
+- Formando como Full-Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
  
 - Apaixonado a cada dia mais por aprender e praticar programação.
 
 - "Conhecimento não oculpa espaço".
-
 
 <br>
 
@@ -20,7 +19,7 @@
 
    <div align="center">  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+       ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
  
    </div>
    
@@ -55,15 +54,13 @@
  
 </div>
 <br>
-<!-- 
+
 <br>
+
 <br>
+
 <br>
-<br>
-<br> -->
-<br>
-<br>
-<br>
+
 <hr />
 
 <div align='center'>
