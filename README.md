@@ -1,5 +1,5 @@
 <h1> Olá Mundo !!! </h1>
-<h2> Muito prazer, meu nome é Gabriel J </h2>
+<h2> Muito prazer, meu nome é Gabriel Jorge </h2>
 
 >  Sobre mim
 
