@@ -14,9 +14,15 @@
 - "Conhecimento não oculpa espaço".
 
 
+<br>
+
 <div> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
+<br>
+
 
 
 <div align="center">
@@ -66,12 +72,3 @@
 </div>
 
 
-<br>
-   <div> 
-  
- 
-   
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
