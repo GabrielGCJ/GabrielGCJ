@@ -12,7 +12,7 @@
 
 
 
-<h1 color="blue"> Olá Mundo !!! or Wello Word !!! </h1>
+<h1 color="green"> Olá Mundo !!! or Wello Word !!! </h1>
 <h2> Muito prazer, meu nome é Gabriel Jorge </h2>
 
 
