@@ -12,13 +12,13 @@
 
 
 
-<h1 color="rgb(15,33,24)"> Olá Mundo !!! or Wello Word !!! </h1>
+<h1 color="green"> Olá Mundo !!! or Wello Word !!! </h1>
 
 <h2> Muito prazer, meu nome é Gabriel Jorge </h2>
 
 
 
-<h2> Sobre mim: </h2>
+<h2 color="green"> Sobre mim: </h2>
 
 - Disponível para oportunidades. ( front or back ) 
 
