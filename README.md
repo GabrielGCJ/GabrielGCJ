@@ -1,17 +1,3 @@
-
-<br>
-
-   <div align="center">  
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
- 
-   </div>
-   
-<br>
-
-
-
-
 <h1 color="green"> Olá Mundo !!! or Wello Word !!! </h1>
 
 <h2> Muito prazer, meu nome é Gabriel Jorge </h2>
