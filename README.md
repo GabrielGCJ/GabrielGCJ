@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 color="green"> Sobre mim: </h2>
+<h2 color="DarkGreen"> Sobre mim: </h2>
 
 - Apaixonado a cada dia mais por aprender e praticar programação.
 
