@@ -6,13 +6,15 @@
 
 <h2 color="green"> Sobre mim: </h2>
 
+- Apaixonado a cada dia mais por aprender e praticar programação.
+
+- Sempre disponivel pra aprender ou ensinar algo sobre tecnologia.
+
 - Disponível para oportunidades. ( front or back ) 
 
 - Formando como Full-Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
- 
-- Apaixonado a cada dia mais por aprender e praticar programação.
 
-- "Conhecimento não oculpa espaço".
+- Uma frase de um grande homem: "Conhecimento não oculpa espaço".
 
 <br>
 
