@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <h1 color="green"> Olá Mundo !!! or Hello Word !!! </h1>
 
@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 color="#006400"> Sobre mim: </h2>
+<h2 color="(0,100,0)"> Sobre mim: </h2>
 
 - Apaixonado a cada dia mais por aprender e praticar programação.
 
