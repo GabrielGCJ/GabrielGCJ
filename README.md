@@ -1,8 +1,10 @@
+<div align="center">
+
 <h1 color="green"> Olá Mundo !!! or Hello Word !!! </h1>
 
 <h2> Muito prazer, meu nome é Gabriel Jorge. </h2>
 
-
+</div>
 
 <h2 color="green"> Sobre mim: </h2>
 
