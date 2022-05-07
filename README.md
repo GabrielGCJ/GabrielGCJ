@@ -1,6 +1,6 @@
-<div>
+<div color="green">
 
-<h1 color="red"> Olá Mundo !!! or Hello Word !!! </h1>
+<h1 color="green"> Olá Mundo !!! or Hello Word !!! </h1>
 
 <h2> Muito prazer, meu nome é Gabriel Jorge. </h2>
 
