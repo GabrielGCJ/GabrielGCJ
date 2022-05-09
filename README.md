@@ -10,15 +10,15 @@
 
 - Apaixonado a cada dia mais por aprender e praticar programação. // Every day more passionate about learning and practicing programming.
 
-- Sempre disponivel pra aprender ou ensinar algo sobre tecnologia. // Always available to learn or teach something about technology.
+- Sempre disponivel pra aprender ou ensinar algo sobre tecnologia. -//- Always available to learn or teach something about technology.
 
-- Conhecimento em: Git, HTML, CSS, Javascript e TypeScript // Languages: Git, HTML, CSS, JavaScript and TypeScript
+- Conhecimento em: Git, HTML, CSS, Javascript e TypeScript -//- Understand: Git, HTML, CSS, JavaScript and TypeScript
 
-- Disponível para oportunidades. ( front ou back ) // Available for opportunities. ( front or back )
+- Disponível para oportunidades. ( front ou back ) -//- Available for opportunities. ( front or back )
 
-- Formando como Full-Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓 // Training as a Full-Stack Web Developer at [Labenu](https://www.labenu.com.br/) 🎓
+- Formando como Full-Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓 -//- Training as a Full-Stack Web Developer at [Labenu](https://www.labenu.com.br/) 🎓
 
-- Uma frase de um grande homem: "Conhecimento não ocupa espaço". // A phrase from a great man: "Knowledge doesn't take up space".
+- Uma frase de um grande homem: "Conhecimento não ocupa espaço". -//- A phrase from a great man: "Knowledge doesn't take up space".
 
 <br>
 
