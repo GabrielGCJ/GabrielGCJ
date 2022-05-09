@@ -1,4 +1,4 @@
-<div backgrond-color="white">
+<div background-color="white">
 
 <h1 color="green"> Olá Mundo !!! or Hello Word !!! </h1>
 
