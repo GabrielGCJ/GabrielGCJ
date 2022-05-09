@@ -8,7 +8,7 @@
 
 <h2 color="green"> Sobre mim: </h2>
 
-- Apaixonado a cada dia mais por aprender e praticar programação. // Every day more passionate about learning and practicing programming.
+- Apaixonado a cada dia mais por aprender e praticar programação. -//- Every day more passionate about learning and practicing programming.
 
 - Sempre disponivel pra aprender ou ensinar algo sobre tecnologia. -//- Always available to learn or teach something about technology.
 
