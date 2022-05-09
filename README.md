@@ -1,4 +1,4 @@
-<div>
+<div backgrond-color="white">
 
 <h1 color="green"> Olá Mundo !!! or Hello Word !!! </h1>
 
@@ -8,15 +8,17 @@
 
 <h2 color="green"> Sobre mim: </h2>
 
-- Apaixonado a cada dia mais por aprender e praticar programação.
+- Apaixonado a cada dia mais por aprender e praticar programação. // Every day more passionate about learning and practicing programming.
 
-- Sempre disponivel pra aprender ou ensinar algo sobre tecnologia.
+- Sempre disponivel pra aprender ou ensinar algo sobre tecnologia. // Always available to learn or teach something about technology.
 
-- Disponível para oportunidades. ( front or back ) 
+- Conhecimento em: Git, HTML, CSS, Javascript e TypeScript // Languages: Git, HTML, CSS, JavaScript and TypeScript
 
-- Formando como Full-Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
+- Disponível para oportunidades. ( front ou back ) // Available for opportunities. ( front or back )
 
-- Uma frase de um grande homem: "Conhecimento não oculpa espaço".
+- Formando como Full-Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓 // Training as a Full-Stack Web Developer at [Labenu](https://www.labenu.com.br/) 🎓
+
+- Uma frase de um grande homem: "Conhecimento não ocupa espaço". // A phrase from a great man: "Knowledge doesn't take up space".
 
 <br>
 
@@ -66,7 +68,17 @@
 <br>
 
 <br>
+<!-- 
 
+<div style="display:flex">
+ <div align="center">
+  <a href="https://github.com/GabrielGCJ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGCJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGCJ&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+</div>
+ -->
 <br>
 
 <br>
@@ -75,7 +87,7 @@
 <hr />
 
 <div align='center'>
-<p> Obrigado pela visita 😁</p>
+<p> Obrigado pela visita 😁 Thanks for the visit </p>
   <img src="https://komarev.com/ghpvc/?username=GabrielGCJ&color=blueviolet&label=profile+views" alt="GabrielGCJ" />
 </div>
 
