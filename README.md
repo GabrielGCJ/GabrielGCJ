@@ -12,7 +12,7 @@
 
 - Sempre disponivel pra aprender ou ensinar algo sobre tecnologia. -//- Always available to learn or teach something about technology.
 
-- Conhecimento em: Git, HTML, CSS, Javascript, React, TypeScript, Sql -//- Understand: Git, HTML, CSS, JavaScript, React, TypeScript, Sql
+- Conhecimento em: Git, HTML, CSS, Javascript, React, TypeScript e Sql -//- Understand: Git, HTML, CSS, JavaScript, React, TypeScript and Sql
 
 - Disponível para oportunidades. ( front ou back ) -//- Available for opportunities. ( front or back )
 
