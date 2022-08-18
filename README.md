@@ -1,6 +1,6 @@
 <div>
 
-<h1 color="green"> Olá Mundo !!! or Hello Word !!! </h1>
+<h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/>! !!! or Hello Word !!! </h1>
 
 <h2> Muito prazer, meu nome é Gabriel Jorge. </h2>
 
