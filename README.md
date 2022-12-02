@@ -16,7 +16,7 @@ Meu nome é Gabriel Jorge e sou desenvolvedor back-end.
 <br>
 Me formei na Labenu aos meus 28 anos como desenvolvedor Full-Stack e desde então vivo a aprender e programar cada vez mais.
 <br>
-Hoje me considero desenvolvedor back-end, pois foi construindo bancos de dados para algumas aplicações usando NodeJs que eu mantive meu foco nos últimos tempos.
+Hoje me considero desenvolvedor back-end, pois foi construindo e ajudando a construir bancos de dados para algumas aplicações usando NodeJs que eu mantive meu foco nos últimos tempos.
 <br>
 Minha meta de vida é poder ser um bom desenvolvedor, não apenas nas tecnologias que eu tenho mais facilidade como o NodeJs, mas aprender e aplicar o que for necessário para assim poder me fazer um desenvolvedor completo.
 
