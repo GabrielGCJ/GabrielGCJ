@@ -2,23 +2,17 @@
 
 <h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> !!!</h1>
 
-<h2> Muito prazer, meu nome é Gabriel Jorge. </h2>
+<!-- <h2> Muito prazer, meu nome é Gabriel Jorge. </h2> -->
 
 </div>
 
-<h2 color="green"> Sobre mim: </h2>
+<!-- <h2 color="green"> Sobre mim: </h2> -->
 
-- Apaixonado a cada dia mais por aprender e praticar programação. -//- Every day more passionate about learning and practicing programming.
-
-- Sempre disponivel pra aprender ou ensinar algo sobre tecnologia. -//- Always available to learn or teach something about technology.
-
-- Conhecimento em: Git, HTML, CSS, Javascript, React, TypeScript e Sql -//- Understand: Git, HTML, CSS, JavaScript, React, TypeScript and Sql
-
-- Disponível para oportunidades. ( front ou back ) -//- Available for opportunities. ( front or back )
-
-- Formando como Full-Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓 -//- Training as a Full-Stack Web Developer at [Labenu](https://www.labenu.com.br/) 🎓
-
-- Uma frase de um grande homem: "Conhecimento não ocupa espaço". -//- A phrase from a great man: "Knowledge doesn't take up space".
+Olá pessoa.
+Meu nome é Gabriel Jorge e sou desenvolvedor back-end.
+Me formei na Labenu aos meus 28 anos como desenvolvedor Full-Stack e desde então vivo a aprender e programar cada vez mais.
+Hoje me considero desenvolvedor back-end, pois foi construindo bancos de dados para algumas aplicações usando NodeJs que eu mantive meu foco nos últimos tempos.
+Minha meta de vida é poder ser um bom desenvolvedor, não apenas nas tecnologias que eu tenho mais facilidade como o NodeJs, mas aprender e aplicar o que for necessário para assim poder me fazer um desenvolvedor completo.
 
 <br>
 
