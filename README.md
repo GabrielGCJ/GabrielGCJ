@@ -2,9 +2,11 @@
 
 <h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> !!!</h1>
 
-<!-- <h2> Muito prazer, meu nome é Gabriel Jorge. </h2> -->
+   </div>
+   
+<!-- <h3> Olá pessoa. </h3> -->
 
-</div>
+
 
 <!-- <h2 color="green"> Sobre mim: </h2> -->
 
