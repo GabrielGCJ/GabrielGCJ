@@ -15,7 +15,7 @@ Olá, meu nome é Gabriel e sou um desenvolvedor back-end com experiência em di
 <br>
 Tenho experiência em desenvolvimento de sistemas web e API's, bem como em banco de dados e integração de sistemas. 
 <br>
-Estou sempre buscando aprender coisas novas e gosto de trabalhar em projetos desafiadores que me permitam expandir meus conhecimentos e habilidades. 
+Estou sempre buscando aprender coisas novas e gosto de trabalhar em projetos desafiadores que permitam expandir meus conhecimentos e habilidades. 
 <br>
 Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente.
 <br>
