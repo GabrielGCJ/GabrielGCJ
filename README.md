@@ -19,7 +19,7 @@ Estou sempre buscando aprender coisas novas e gosto de trabalhar em projetos des
 <br>
 Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente.
 <br>
-Estou ansioso por encontrar novas oportunidades de trabalho e colaborar com equipes talentosas.
+Estou ansioso para encontrar novas oportunidades de trabalho e colaborar com equipes talentosas.
 <br>
 
    <div align="center">  
