@@ -10,9 +10,8 @@
 
 <!-- <h2 color="green"> Sobre mim: </h2> -->
 
-Olá pessoa.
-<br>
-Olá, meu nome é Gabriel e sou um desenvolvedor back-end com experiência em diversas linguagens de programação, como Javascript, Typescript, Nodejs, Docker e Jest
+
+Olá, meu nome é Gabriel e sou um desenvolvedor back-end com experiência em diversas linguagens de programação, como Javascript, Typescript, Nodejs, Docker e Jest.
 <br>
 Tenho experiência em desenvolvimento de sistemas web e API's, bem como em banco de dados e integração de sistemas. 
 <br>
