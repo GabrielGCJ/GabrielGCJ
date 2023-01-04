@@ -12,14 +12,15 @@
 
 Olá pessoa.
 <br>
-Meu nome é Gabriel Jorge e sou desenvolvedor back-end.
+Olá, meu nome é Gabriel e sou um desenvolvedor back-end com experiência em diversas linguagens de programação, como Javascript, Typescript, Nodejs, Docker e Jest
 <br>
-Me formei na Labenu aos meus 28 anos como desenvolvedor Full-Stack e desde então vivo a aprender e programar cada vez mais.
+Tenho experiência em desenvolvimento de sistemas web e API's, bem como em banco de dados e integração de sistemas. 
 <br>
-Hoje me considero desenvolvedor back-end, pois foi construindo e ajudando a construir bancos de dados para algumas aplicações usando NodeJs que eu mantive meu foco nos últimos tempos.
+Estou sempre buscando aprender coisas novas e gosto de trabalhar em projetos desafiadores que me permitam expandir meus conhecimentos e habilidades. 
 <br>
-Minha meta de vida é poder ser um bom desenvolvedor, não apenas nas tecnologias que eu tenho mais facilidade como o NodeJs, mas aprender e aplicar o que for necessário para assim poder me fazer um desenvolvedor completo.
-
+Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente.
+<br>
+Estou ansioso por encontrar novas oportunidades de trabalho e colaborar com equipes talentosas.
 <br>
 
    <div align="center">  
