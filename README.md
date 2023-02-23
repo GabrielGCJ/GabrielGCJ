@@ -11,15 +11,13 @@
 <!-- <h2 color="green"> Sobre mim: </h2> -->
 
 
-Olá, meu nome é Gabriel e sou um desenvolvedor back-end com experiência em diversas linguagens de programação, como Javascript, Typescript, Nodejs, Docker e Jest.
-<br>
-Tenho experiência em desenvolvimento de sistemas web e API's, bem como em banco de dados e integração de sistemas. 
-<br>
-Estou sempre buscando aprender coisas novas e gosto de trabalhar em projetos desafiadores que permitam expandir meus conhecimentos e habilidades. 
-<br>
-Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente.
-<br>
-Estou ansioso para encontrar novas oportunidades de trabalho e colaborar com equipes talentosas.
+Olá, eu sou Gabriel, um desenvolvedor back-end com experiência em diversas linguagens de programação, incluindo Javascript, Typescript, Nodejs, Docker e Jest.
+
+Tenho experiência em desenvolvimento de sistemas web e APIs, bem como em bancos de dados e integração de sistemas. Estou constantemente procurando aprender coisas novas e adoro trabalhar em projetos desafiadores que me permitam expandir meus conhecimentos e habilidades.
+
+Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente. Se você está procurando um desenvolvedor back-end dedicado e apaixonado por tecnologia, eu adoraria conversar sobre como podemos trabalhar juntos em seu próximo projeto.
+
+Por favor, não hesite em entrar em contato comigo para discutir suas necessidades e objetivos de desenvolvimento. Estou ansioso para colaborar com equipes talentosas e encontrar novas oportunidades de trabalho!
 <br>
 
    <div align="center">  
