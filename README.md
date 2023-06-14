@@ -4,20 +4,20 @@
 
    </div>
    
-<!-- <h3> Olá pessoa. </h3> -->
-
-
+<!-- <h3> Olá Mundo!. </h3> -->
 
 <!-- <h2 color="green"> Sobre mim: </h2> -->
 
 
-Olá, eu sou Gabriel, um desenvolvedor back-end com experiência em diversas linguagens de programação, incluindo Javascript, Typescript, Nodejs, Docker e Jest.
+Olá, eu sou Gabriel, um desenvolvedor full-stack com ênfase em back-end. Tenho experiência em diversas linguagens de programação, incluindo Javascript, Typescript, Node.js, Docker e Jest.
 
-Tenho experiência em desenvolvimento de sistemas web e APIs, bem como em bancos de dados e integração de sistemas. Estou constantemente procurando aprender coisas novas e adoro trabalhar em projetos desafiadores que me permitam expandir meus conhecimentos e habilidades.
+Meu foco principal é o desenvolvimento de sistemas web e APIs, além de ter conhecimentos em bancos de dados e integração de sistemas. Estou constantemente em busca de aprendizado e adoro enfrentar projetos desafiadores que me permitam expandir minhas habilidades e conhecimentos.
 
-Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente. Se você está procurando um desenvolvedor back-end dedicado e apaixonado por tecnologia, eu adoraria conversar sobre como podemos trabalhar juntos em seu próximo projeto.
+A maior parte da minha experiência está focada no desenvolvimento back-end, porém, nos últimos meses, tenho me dedicado a aprimorar minhas habilidades em front-end, especificamente em ReactJS. Essa transição tem sido bastante divertida, pois agora posso ver o que eu faço. (Desculpe o trocadilho horrivel 😅)
 
-Por favor, não hesite em entrar em contato comigo para discutir suas necessidades e objetivos de desenvolvimento. Estou ansioso para colaborar com equipes talentosas e encontrar novas oportunidades de trabalho!
+Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente. Se você está procurando um desenvolvedor back-end dedicado e apaixonado por tecnologia, adoraria conversar sobre como podemos colaborar em seu próximo projeto.
+
+Por favor, não hesite em entrar em contato comigo para discutir suas necessidades e objetivos de desenvolvimento. Estou ansioso para trabalhar com equipes talentosas e explorar novas oportunidades profissionais!
 <br>
 
    <div align="center">  
