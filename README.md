@@ -15,7 +15,7 @@ Meu foco principal é o desenvolvimento de sistemas web e APIs, além de ter con
 
 A maioria da minha experiência está focada no desenvolvimento back-end, porém, nos últimos meses, tenho me dedicado a aprimorar minhas habilidades em front-end, especificamente em ReactJS. Essa transição tem sido bastante divertida, pois agora posso "ver" o que eu faço. (Desculpe o trocadilho 😅)
 
-Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente. Se você está procurando um desenvolvedor back-end dedicado e apaixonado por tecnologia, adoraria conversar sobre como podemos colaborar em seu próximo projeto.
+Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente. Se você está procurando um desenvolvedor dedicado e apaixonado por tecnologia, adoraria conversar sobre como posso colaborar em seu próximo projeto.
 
 Por favor, não hesite em entrar em contato comigo para discutir suas necessidades e objetivos de desenvolvimento. Estou ansioso para trabalhar com equipes talentosas e explorar novas oportunidades profissionais!
 <br>
