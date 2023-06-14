@@ -13,7 +13,7 @@ Olá, eu sou Gabriel, um desenvolvedor full-stack com ênfase em back-end. Tenho
 
 Meu foco principal é o desenvolvimento de sistemas web e APIs, além de ter conhecimentos em bancos de dados e integração de sistemas. Estou constantemente em busca de aprendizado e adoro enfrentar projetos desafiadores que me permitam expandir minhas habilidades e conhecimentos.
 
-A maior parte da minha experiência está focada no desenvolvimento back-end, porém, nos últimos meses, tenho me dedicado a aprimorar minhas habilidades em front-end, especificamente em ReactJS. Essa transição tem sido bastante divertida, pois agora posso ver o que eu faço. (Desculpe o trocadilho horrivel 😅)
+A maioria da minha experiência está focada no desenvolvimento back-end, porém, nos últimos meses, tenho me dedicado a aprimorar minhas habilidades em front-end, especificamente em ReactJS. Essa transição tem sido bastante divertida, pois agora posso "ver" o que eu faço. (Desculpe o trocadilho 😅)
 
 Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente. Se você está procurando um desenvolvedor back-end dedicado e apaixonado por tecnologia, adoraria conversar sobre como podemos colaborar em seu próximo projeto.
 
