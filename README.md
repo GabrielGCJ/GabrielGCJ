@@ -53,6 +53,7 @@
 <hr />
 
 <div align='center'>
+  
 <p> Obrigado pela visita 😁 </p>
   <img src="https://komarev.com/ghpvc/?username=GabrielGCJ&color=blueviolet&label=profile+views" alt="GabrielGCJ" />
 </div>
