@@ -33,6 +33,9 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img align="center" alt="styledcomponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img align="center" height="27.5px" "alt="swagguer" src="https://cavedweller92.files.wordpress.com/2019/07/swagger-logo-horizontal.png" />
+
+
 </div>
 <br>
 
@@ -48,7 +51,7 @@
   <a target="_blank" href="https://wa.me/5521988436194"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" /></a>
   <a target="_blank" href="https://t.me/GBJ333"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo" /></a>
   <a target="_blank" href="https://dev.to/gabrielgcj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35" alt="dev.to logo" /></a>
-  <a target="_blank" href="https://www.instagram.com/gb.j_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a>
+<!--   <a target="_blank" href="https://www.instagram.com/gb.j_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a> -->
  </div>
 
 <br>
