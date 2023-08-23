@@ -11,8 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GBJ333)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Gabriel J GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgcj&show_icons=true&theme=radical)
+![Gabriel J GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgcj&show_icons=true&theme=dracula)
 
 <div align="center"> 
  
