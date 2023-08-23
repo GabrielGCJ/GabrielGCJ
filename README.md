@@ -2,7 +2,6 @@
 
 ### <h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> eu sou Gabriel Jorge ✌️</h1>
 
-   
 <br>
 
 <div align="center"> 
