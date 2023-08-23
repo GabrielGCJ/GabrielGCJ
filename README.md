@@ -43,14 +43,14 @@
 
 <hr />
 
-### Contatos 📫
+### Contato 📫
 
 <div align="center">  
   <a target="_blank" href="https://www.linkedin.com/in/gabriel-jorge-67635b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/gb.j_dev/" height="35" alt="linkedin logo" /></a>
-  <a target="_blank" href="mailto:gabrielggcj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" /></a>
-  <a target="_blank" href="https://wa.me/5521988436194"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" /></a>
-  <a target="_blank" href="https://t.me/GBJ333"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo" /></a>
-  <a target="_blank" href="https://dev.to/gabrielgcj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35" alt="dev.to logo" /></a>
+<!--   <a target="_blank" href="mailto:gabrielggcj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" /></a> -->
+<!--   <a target="_blank" href="https://wa.me/5521988436194"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" /></a> -->
+<!--   <a target="_blank" href="https://t.me/GBJ333"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo" /></a> -->
+<!--   <a target="_blank" href="https://dev.to/gabrielgcj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35" alt="dev.to logo" /></a> -->
 <!--   <a target="_blank" href="https://www.instagram.com/gb.j_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a> -->
  </div>
 
