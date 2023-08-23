@@ -1,6 +1,10 @@
 
 
-### <h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> ! Eu sou Gabriel Jorge ✌️</h1>
+### <h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> ! Eu sou o Gabriel Jorge ✌️</h1>
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gb.j_dev/)
 
 <br>
 
