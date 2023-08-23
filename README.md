@@ -1,3 +1,4 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 
 ### <h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> ! Eu sou o Gabriel Jorge ✌️</h1>
@@ -12,8 +13,10 @@
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gabrielgcj)
 <br>
 
-![Gabriel J GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgcj&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgcj&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgcj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgcj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ### Principais tecnologias do meu dia a dia:
 
@@ -46,3 +49,4 @@
 
 
 
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
