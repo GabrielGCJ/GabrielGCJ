@@ -13,7 +13,7 @@
 <br>
 
 ![Gabriel J GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgcj&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgcj&layout=compacttheme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgcj&layout=compact)
 
 ### Tecnologias do meu dia a dia:
 
