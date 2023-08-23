@@ -3,24 +3,14 @@
 <h1 align="left">Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> ! Eu sou o Gabriel Jorge ✌️</h1>
 <h3 align="left">A creative Frontend Developer from Brazil</h3>
 
+## 🚀 Sobre min:
+<p>
+  Sou um desenvolvedor dedicado e entusiasmado, sempre à procura de novas formas de inovar e elevar o patamar das minhas habilidades como programador. Uma nova propriedade, um código mais legível, um detalhe que enriquece a experiência do usuário, um banco de dados mais bem elaborado e performático: esses são apenas alguns exemplos do que torna meu dia a dia como programador cada vez mais prazeroso. Afinal, a dor de cabeça e o esforço extra para aprender e aplicar mais são sempre recompensados com a satisfação de ver um projeto ganhar vida e superar expectativas.
+</p>
+
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gb.j_dev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/gb.j_dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielggcj@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521988436194)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GBJ333)
 
-[![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gabrielgcj)
-
-<div align="center">
-  <a href="https://www.instagram.com/gb.j_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-jorge-67635b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/gb.j_dev/" height="35" alt="linkedin logo" /></a>
-  <a href="mailto:gabrielggcj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" /></a>
-  <a href="https://wa.me/5521988436194"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" /></a>
-  <a href="https://t.me/GBJ333"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo" /></a>
-  <a href="https://dev.to/gabrielgcj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35" alt="dev.to logo" /></a>
- </div>
 
 <br>
 
@@ -48,6 +38,15 @@
 <br>
 
 <br>
+
+<div align="center">
+  <a href="https://www.instagram.com/gb.j_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-jorge-67635b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/gb.j_dev/" height="35" alt="linkedin logo" /></a>
+  <a href="mailto:gabrielggcj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" /></a>
+  <a href="https://wa.me/5521988436194"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" /></a>
+  <a href="https://t.me/GBJ333"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo" /></a>
+  <a href="https://dev.to/gabrielgcj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35" alt="dev.to logo" /></a>
+ </div>
 
 <br>
 
