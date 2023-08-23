@@ -1,32 +1,8 @@
 <div>
 
 <h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> !!!</h1>
+Olá, eu sou Gabriel Jorge ✌️,
 
-   </div>
-   
-<!-- <h3> Olá Mundo!. </h3> -->
-
-<!-- <h2 color="green"> Sobre mim: </h2> -->
-
-
-Olá, eu sou Gabriel, um desenvolvedor full-stack com ênfase em back-end. Tenho experiência em diversas linguagens de programação, incluindo Javascript, Typescript, Node.js, Docker e Jest.
-
-Meu foco principal é o desenvolvimento de sistemas web e APIs, além de ter conhecimentos em bancos de dados e integração de sistemas. Estou constantemente em busca de aprendizado e adoro enfrentar projetos desafiadores que me permitam expandir minhas habilidades e conhecimentos.
-
-A maioria da minha experiência está focada no desenvolvimento back-end, porém, nos últimos meses, tenho me dedicado a aprimorar minhas habilidades em front-end, especificamente em ReactJS. Essa transição tem sido bastante divertida, pois agora posso "ver" o que eu faço. (Desculpe o trocadilho 😅)
-
-Sou uma pessoa proativa e trabalho bem tanto em equipe quanto de forma independente. Se você está procurando um desenvolvedor dedicado e apaixonado por tecnologia, adoraria conversar sobre como posso colaborar em seu próximo projeto.
-
-Por favor, não hesite em entrar em contato comigo para discutir suas necessidades e objetivos de desenvolvimento. Estou ansioso para trabalhar com equipes talentosas e explorar novas oportunidades profissionais!
-<br>
-
-   <div align="center">  
- 
-<!-- 
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-
--->
  
    </div>
    
