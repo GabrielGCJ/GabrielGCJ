@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 <h1 align="left">Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> ! Eu sou o Gabriel Jorge ✌️</h1>
-<h3 align="left">Desenvolvedor full-stack pronto para enfrentar desafios em ReactJS e Node.js.</h3>
+<h3 align="left">Desenvolvedor full-stack pronto para enfrentar desafios.</h3>
 
 ## 🚀 Sobre min:
 <p>
