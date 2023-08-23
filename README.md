@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/gb.j_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a>
- 
+   <a href="https://www.instagram.com/gb.j_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a>
  </div>
 
 <br>
