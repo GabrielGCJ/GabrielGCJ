@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim:
 <p>
-  Sou um desenvolvedor dedicado e entusiasmado, sempre à procura de novas formas de inovar e elevar o patamar das minhas habilidades como programador. Uma nova propriedade, um código mais legível, um detalhe que enriquece a experiência do usuário, um banco de dados mais bem elaborado e performático: esses são apenas alguns exemplos do que torna meu dia a dia como programador cada vez mais prazeroso. Afinal, a dor de cabeça e o esforço extra para aprender e aplicar mais são sempre recompensados com a satisfação de ver um projeto ganhar vida e superar expectativas.
+  Sou um desenvolvedor dedicado e entusiasmado, sempre à procura de novas formas de inovar e elevar o patamar das minhas habilidades como programador. Uma nova propriedade, um código mais legível, um detalhe que enriquece a experiência do usuário, um banco de dados mais bem elaborado e performático: esses são apenas alguns exemplos do que torna meu dia a dia como programador cada vez mais prazeroso. Afinal, a dor de cabeça e o esforço extra para aprender e aplicar são sempre recompensados com a satisfação de ver um projeto ganhar vida e superar expectativas.
 </p>
 
 <br>
