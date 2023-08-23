@@ -1,10 +1,7 @@
-<div>
+
 
 <h1 color="green"> Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> !!!</h1>
-Olá, eu sou Gabriel Jorge ✌️,
-
- 
-   </div>
+Olá, eu sou Gabriel Jorge ✌️
    
 <br>
 
