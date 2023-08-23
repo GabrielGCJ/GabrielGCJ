@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 <h1 align="left">Olá <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/> ! Eu sou o Gabriel Jorge ✌️</h1>
-<h3 align="left">A creative Frontend Developer from Brazil</h3>
+<h3 align="left">Desenvolvedor full-stack pronto para enfrentar desafios em ReactJS e Node.js.</h3>
 
 ## 🚀 Sobre min:
 <p>
@@ -9,8 +9,6 @@
 </p>
 
 <br>
-
-
 
 <br>
 
@@ -38,6 +36,8 @@
 <br>
 
 <br>
+
+<h3 align="left">  Contatos 📫 </h3>
 
 <div align="center">
   <a href="https://www.instagram.com/gb.j_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" /></a>
