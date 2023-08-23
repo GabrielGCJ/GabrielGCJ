@@ -15,7 +15,7 @@
 ![Gabriel J GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgcj&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgcj&layout=compact)
 
-### Tecnologias do meu dia a dia:
+### Principais tecnologias do meu dia a dia:
 
 <div align="center" style="display: inline_block"> <br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,34 +31,11 @@
 <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="center" alt="styledcomponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
-
-
-
- 
-</div>
-   
-<br>
-
-
- 
- 
- <div align="center"> 
-  <a href="https://www.linkedin.com/in/gabriel-jorge-67635b221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.ggcj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gb.j_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  
-  
-</div> 
- 
-
 <br>
 
 <br>
 
 <br>
-
-<br>
-
 
 <hr />
 
