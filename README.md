@@ -33,10 +33,10 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img align="center" alt="styledcomponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img align="center" height="27.5px" "alt="swagguer" src="https://cavedweller92.files.wordpress.com/2019/07/swagger-logo-horizontal.png" />
-
-
+  <img align="center" height="27.5px" "alt="swagguer" src="https://cavedweller92.files.wordpress.com/2019/07/swagger-logo-horizontal.png" />
 </div>
+
+
 <br>
 
 <br>
